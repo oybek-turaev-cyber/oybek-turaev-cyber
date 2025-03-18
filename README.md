@@ -1,16 +1,19 @@
-## Hi there 👋
+# Oybek Turaev – Cybersecurity Portfolio  
 
-<!--
-**oybek-turaev-cyber/oybek-turaev-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me  
+I’m a **Cybersecurity Specialist** with a focus on **SOC operations, threat detection, and security automation**. I’m passionate about **threat hunting, SIEM analysis, and adversary detection using MITRE ATT&CK frameworks.**  
 
-Here are some ideas to get you started:
+🔍 **Areas of Expertise:**  
+- 🛡 **SOC Operations & SIEM:** Splunk, Microsoft Sentinel, ELK Stack  
+- 🔍 **Threat Hunting & Incident Response:** Log forensics, Windows Event Logs, Sysmon, Suricata  
+- 🏆 **Certifications:** HTB Certified Defensive Security Analyst (CDSA) | CompTIA CySA+ | Security+  
+- 🚀 **Hands-on Labs & Research:** Documenting **real-world attack detection & threat intelligence investigations.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+- 🔹 **[SOC Investigations & Threat Detection](https://github.com/yourrepo)** – Case studies on SIEM detections, log forensics & MITRE ATT&CK mapping.  
+- 🔹 **[Custom SIEM Detection Rules](https://github.com/yourrepo)** – A collection of **Splunk KQL queries, Sigma rules, and cloud security detections.**  
+- 🔹 **[Cloud Security Threat Research](https://github.com/yourrepo)** – Investigating attack vectors & defenses in AWS/Azure.  
+
+📬 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/oybek-turaev) | [Email](mailto:commuter0706@gmail.com)  
+
+---
