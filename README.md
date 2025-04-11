@@ -2,7 +2,7 @@
 
 ## 🔹 About Me
 
-I'm a highly motivated cybersecurity enthusiast with an ongoing **MSc in Cybersecurity with CYBERUS, the Erasmus Mundus Joint Masters Program**. As CompTIA CySA+, Security+ Certified, I have a strong foundation in **SOC operations, threat detection, and security automation**, complemented by a Bachelor's degree in **Software Engineering**. My passion lies in proactively **hunting threats, conducting in-depth SIEM analysis, and understanding adversary tactics using the MITRE ATT&CK framework.** I bring practical experience from diverse areas, including **vulnerability assessments, network security principles, and cloud security concepts.**
+I'm a highly motivated cybersecurity enthusiast with an ongoing **MSc in Cybersecurity with CYBERUS**, *the Erasmus Mundus Joint Masters Program*. As **CompTIA CySA+, Security+ Certified**, I have a strong foundation in **SOC operations, threat detection, and security automation**, complemented by a Bachelor's degree in **Software Engineering**. My passion lies in proactively **hunting threats, conducting in-depth SIEM analysis, and understanding adversary tactics using the MITRE ATT&CK framework.** I bring practical experience from diverse areas, including **vulnerability assessments, network security principles, and cloud security concepts.**
 
 My journey includes training the next generation of cybersecurity professionals, researching emerging threats, and hands-on experience in real-world attack simulations. I'm eager to apply my skills and learn from experienced professionals in the European cybersecurity landscape.
 
