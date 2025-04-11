@@ -36,6 +36,6 @@ My journey includes training the next generation of cybersecurity professionals,
 
 ## 📬 Let’s Connect
 
-[LinkedIn](https://linkedin.com/in/oybek-turaev) | [Email](mailto:commuter0706@gmail.com)
+[LinkedIn](https://linkedin.com/in/oybek-turaev) 
 
 ---
