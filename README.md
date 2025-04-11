@@ -25,10 +25,10 @@ My journey includes training the next generation of cybersecurity professionals,
 - 🔹 **[Security Automation Scripts](https://github.com/yourrepo)** – Repository of Python and Bash scripts developed for automating security-related tasks, such as compliance checks (ISO 27001) and log analysis.
 - 🔹 **[Unit Testing Implementations](https://github.com/yourrepo)** – Examples of unit tests implemented in Java (using JUnit) and C++ (using DOCTEST) from previous projects. (You can create a dedicated repo or link to relevant code within other projects).
 
-## 💼 Experience Highlights (Connecting to your CV)
+## 💼 Experience Highlights
 
 * **Cybersecurity Teaching Assistant:** Trained Amazon employees on system security and incident response.
-* **Cybersecurity Research CYBERUS Winter School, TalTech & NATO CCDCOE:** Researched global cyber threats and SOC operations.
+* **Cybersecurity Research, CYBERUS Winter School, TalTech & NATO CCDCOE:** Researched global cyber threats and SOC operations.
 * **Practical SOC Training (Hack The Box):** Gained hands-on experience in real-world threat detection and incident investigation.
 * **Cyber Security Analyst Intern:** Conducted penetration testing and threat assessments, mitigated vulnerabilities, and used SIEM tools.
 * **Quality Assurance Analyst:** Implemented security guidelines and developed unit tests in Java and C++.
