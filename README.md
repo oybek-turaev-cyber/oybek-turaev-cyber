@@ -28,7 +28,7 @@ My journey includes training the next generation of cybersecurity professionals,
 ## 💼 Experience Highlights (Connecting to your CV)
 
 * **Cybersecurity Teaching Assistant:** Trained Amazon employees on system security and incident response.
-* **Cybersecurity Research at NATO CCDCOE:** Researched global cyber threats and SOC operations.
+* **Cybersecurity Research CYBERUS Winter School, TalTech & NATO CCDCOE:** Researched global cyber threats and SOC operations.
 * **Practical SOC Training (Hack The Box):** Gained hands-on experience in real-world threat detection and incident investigation.
 * **Cyber Security Analyst Intern:** Conducted penetration testing and threat assessments, mitigated vulnerabilities, and used SIEM tools.
 * **Quality Assurance Analyst:** Implemented security guidelines and developed unit tests in Java and C++.
