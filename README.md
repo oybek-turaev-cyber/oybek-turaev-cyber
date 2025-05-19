@@ -10,7 +10,6 @@ My journey includes training the next generation of cybersecurity professionals,
 
 - 🛡 **SOC Operations & SIEM:** Proficient in Splunk, Microsoft Sentinel, and ELK Stack for log analysis, incident investigation, and threat detection.
 - 🔍 **Threat Hunting & Incident Response:** Experienced in log forensics (Windows Event Logs, Sysmon), network traffic analysis (Suricata), and applying the MITRE ATT&CK framework.
-- ☁️ **Cloud Security:** Understanding of attack vectors and defenses in AWS/Azure environments.
 - 🛠️ **Security Assessment & Testing:** Familiar with vulnerability assessment tools (Nessus) and penetration testing principles.
 - ⚙️ **Security Automation:** Developing scripts in Python and Bash for automation of security tasks and compliance checks.
 - 📜 **Compliance & Standards:** Knowledge of ISO 27001, NIST CSF, GDPR, and other relevant security regulations.
@@ -19,11 +18,10 @@ My journey includes training the next generation of cybersecurity professionals,
 
 ## 📌 Featured Projects
 
-- 🔹 **[SOC Investigations & Threat Detection](https://github.com/yourrepo)** – Case studies and write-ups on SIEM detections, log forensics techniques, and mapping observed activities to the MITRE ATT&CK framework. Includes investigations using Splunk, Microsoft Sentinel, and ELK Stack.
-- 🔹 **[Custom SIEM Detection Rules](https://github.com/yourrepo)** – A collection of custom detection rules and queries for SIEM platforms (Splunk KQL queries, Sigma rules) and cloud security environments.
-- 🔹 **[Cloud Security Threat Research](https://github.com/yourrepo)** – Research notes and findings on emerging attack vectors and defense strategies in AWS and Azure.
-- 🔹 **[Security Automation Scripts](https://github.com/yourrepo)** – Repository of Python and Bash scripts developed for automating security-related tasks, such as compliance checks (ISO 27001) and log analysis.
-- 🔹 **[Unit Testing Implementations](https://github.com/yourrepo)** – Examples of unit tests implemented in Java (using JUnit) and C++ (using DOCTEST) from previous projects. (You can create a dedicated repo or link to relevant code within other projects).
+- 🔹 **[SOC Investigations & Threat Detection](https://github.com/oybek-turaev-cyber/HTB-CDSA-Prep)** – Case studies and write-ups on SIEM detections, log forensics techniques, and mapping observed activities to the MITRE ATT&CK framework. Includes investigations using Splunk, Microsoft Sentinel, and ELK Stack.
+This is through **Hack The Box**: **Certified Defensive Security Analyst** Certification >> **SOC Path** in *Hack The Box Academy*
+
+- 🔹 **[Bash Scripting](https://github.com/oybek-turaev-cyber/Bash-Scripting#)** – Repository of **Bash Scripts** developed for automating security-related tasks, such as compliance checks (ISO 27001) and log analysis & By Solving Challenges on **Exercism Platform**.
 
 ## 💼 Experience Highlights
 
