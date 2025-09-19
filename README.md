@@ -40,6 +40,6 @@ Alongside my studies, I maintain **personal GitHub Repositories** documenting my
 
 [LinkedIn](https://linkedin.com/in/oybek-turaev)  
 
-## See MY CV:
+## Download CV:
 
 [CV](https://oybek-turaev-cyber.github.io/oybek-turaev-cyber/Oybek_Turaev_CV.pdf)
