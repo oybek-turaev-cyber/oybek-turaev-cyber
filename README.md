@@ -36,6 +36,10 @@ Alongside my studies, I maintain **personal GitHub Repositories** documenting my
 - **Quality Assurance Analyst (Eurosoft):** Implemented security guidelines (OWASP, MASVS) and developed unit tests.  
 - **Cybersecurity Program Leader:** Designed and led a cybersecurity training program, securing funding of $4,761.  
 
-## Let’s Connect  
+## Let’s Connect
 
 [LinkedIn](https://linkedin.com/in/oybek-turaev)  
+
+## See MY CV:
+
+[CV](https://oybek-turaev-cyber.github.io/oybek-turaev-cyber/Oybek_Turaev_CV.pdf)
