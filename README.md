@@ -13,7 +13,7 @@ Alongside my studies, I maintain **personal GitHub Repositories** documenting my
 - 175+ Hack The Box Academy challenges completed (Pre-SOC & SOC certification) → [HTB Academy](https://shorturl.at/iyIPF)  
 - 18+ Hack The Box machines pwned (Tier 0–2, ongoing) → [HTB Machines](https://shorturl.at/X7tjD)  
 - 5 Advanced Splunk BOTS APT hunts → [Splunk BOTS](https://shorturl.at/oVKgi)  
-- 4 HTB Sherlocks (ongoing) → [HTB Sherlocks](https://shorturl.at/ds2V3)  
+- 6 HTB Sherlocks (ongoing) → [HTB Sherlocks](https://shorturl.at/ds2V3)  
 - 25 Bash scripting challenges → [Bash Practice](https://shorturl.at/0zGtU)  
 - Active participation in **CTF competitions** (CYBERUS Spring School 2025, HTB Holmes CTF 2025)  
 
