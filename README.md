@@ -11,8 +11,8 @@ Currently, I’m advancing my expertise through specialized Master’s courses i
 
 Alongside my studies, I maintain **personal GitHub Repositories** documenting my notes, investigation results, and a custom SOC playbook. These projects reflect my **hands-on experience in SOC operations, Threat Hunting, and Incident Response**, including:  
 - 175+ Hack The Box Academy challenges completed (Pre-SOC & SOC certification) → [HTB Academy Challenges](https://shorturl.at/iyIPF)  
-- 21+ Hack The Box machines pwned (Tier 0–2, ongoing) → [HTB Machines](https://shorturl.at/X7tjD)  
-- 5 Advanced Splunk BOTS APT hunts → [Splunk BOTS](https://shorturl.at/oVKgi)  
+- 25 Hack The Box machines pwned (Tier 0, 1, 2) → [HTB Machines](https://github.com/oybek-turaev-cyber/HTB-CDSA-Prep/tree/main/CDSA-Exam-Practical-Labs/lab-machines/starting_point)  
+- 5 Advanced Splunk BOTS APT hunts → [Splunk BOTS](https://github.com/oybek-turaev-cyber/HTB-CDSA-Prep/tree/main/CDSA-Exam-Practical-Labs/lab-machines/bots_splunk)  
 - 6+ HTB Sherlocks (ongoing) → [HTB Sherlocks](https://shorturl.at/ds2V3)  
 - 25 Bash scripting challenges → [Bash Practice](https://shorturl.at/0zGtU)  
 - Active participation in **CTF competitions** (CYBERUS Spring School 2025, HTB Holmes CTF 2025)  
