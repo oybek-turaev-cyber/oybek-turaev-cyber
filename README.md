@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m Oybek, a **Cybersecurity Master’s Student** in the prestigious **Erasmus Mundus Joint Master’s program in Cybersecurity (CYBERUS)**, with a **Bachelor’s degree in Software Engineering**. I hold professional certifications including **CompTIA CySA+** and **Security+**. Recently, I completed the **Hack The Box Certified Defensive Security Analyst (CDSA) Exam** (results pending), where I investigated two real-world incidents during a 7-day long period and produced a commercial-grade Incident Report.
+I’m Oybek, a **Cybersecurity Master’s Student** in the prestigious **Erasmus Mundus Joint Master’s program in Cybersecurity (CYBERUS)**, with a **Bachelor’s degree in Software Engineering**. I hold professional certifications including **HTB CDSA**, **CompTIA CySA+** and **Security+**. Recently, I passed the **Hack The Box Certified Defensive Security Analyst (CDSA) Exam**, where I investigated two real-world incidents during a 7-day long period and produced a commercial-grade Incident Report.
 
 Currently, I’m advancing my expertise through specialized Master’s courses in:
 - Android Security (App Exploitation & Reverse Engineering)
@@ -13,7 +13,7 @@ Alongside my studies, I maintain **personal GitHub Repositories** documenting my
 - 175+ Hack The Box Academy challenges completed (Pre-SOC & SOC certification) → [HTB Academy Challenges](https://shorturl.at/iyIPF)
 - 25 Hack The Box machines pwned (Tier 0, 1, 2) → [HTB Machines](https://github.com/oybek-turaev-cyber/HTB-CDSA-Prep/tree/main/CDSA-Exam-Practical-Labs/lab-machines/starting_point)
 - 5 Advanced Splunk BOTS APT hunts → [Splunk BOTS](https://github.com/oybek-turaev-cyber/HTB-CDSA-Prep/tree/main/CDSA-Exam-Practical-Labs/lab-machines/bots_splunk)
-- 7+ HTB Sherlocks (ongoing) → [HTB Sherlocks](https://shorturl.at/ds2V3)
+- 8+ HTB Sherlocks (ongoing) → [HTB Sherlocks](https://shorturl.at/ds2V3)
 - 25 Bash scripting challenges → [Bash Practice](https://shorturl.at/0zGtU)
 - Active participation in **CTF competitions** (CYBERUS Spring School 2025, HTB Holmes CTF 2025)
 
